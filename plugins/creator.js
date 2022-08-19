@@ -11,21 +11,21 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 ------- ${nameown} -------
 
 📮 *Note:*
-• Owner ReysaOfficialF1 tidak menerima save contact
-• Owner ReysaOfficialF1 berhak blockir tanpa alasan
+• Owner Futube MD tidak menerima save contact
+• Owner Futube MD berhak blockir tanpa alasan
 • Berbicaralah yang sopan & tidak spam
-• Owner ReysaOfficialF1 Hanya merespon yang berkaitan dengan BOT
-• No Telp owner ReysaOfficialF1`
+• Owner Futube MD Hanya merespon yang berkaitan dengan BOT
+• No Telp owner Futube MD`
 
 //------------ BIO
-let ppown = 'https://telegra.ph/file/5191fcee44a38d8c957b1.jpg'
+let ppown = 'https://telegra.ph/file/.jpg'
 let teksbio = `${htki} *BIODATA* ${htka}
-❑ *Nama* : Reysa
-❑ *Umur* : 16 Tahun
+❑ *Nama* : Sabil
+❑ *Umur* : 15 Tahun
 ❑ *Kelas* : 1 Sma
 
-❑ *Ulang Tahun* : 19 desember 2006
-❑ *Alamat* : Indonesia, Jakarta barat, Kalideres
+❑ *Ulang Tahun* : 10 April 2008
+❑ *Alamat* : Indonesia, Jateng, Pagerbarang
 
 ${htjava} *Instagram:* ${sig}
 ${htjava} *Github:* ${sgh}
@@ -36,8 +36,8 @@ const sections = [
    {
 	title: `${htjava} OWNER –––––––––·•`,
 	rows: [
-	    {title: "📱 • Nomor Reysa", rowId: ".owner nomor"},
-	{title: "🎨 • Biodata Reysa", rowId: ".owner bio"},
+	    {title: "📱 • Nomor Sabil", rowId: ".owner nomor"},
+	{title: "🎨 • Biodata Sabil", rowId: ".owner bio"},
 	{title: "🌎 • Script yang bot gunakan", rowId: ".sc"},
 	]
     },{
