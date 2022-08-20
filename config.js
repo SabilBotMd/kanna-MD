@@ -42,7 +42,7 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 /*============== SOCIAL ==============*/
 global.sig = 'https://www.instagram.com/SabilOfc/'
-global.sgh = 'https://github.com/RimuruBotMd'
+global.sgh = 'https://github.com/SabilBotMd'
 global.sgc = 'https://youtube.com/channel/SabilOfc'
 global.sdc = 'https://wa.me/6288980870067'
 global.snh = 'https://youtube.com/channel/SabilOfc'
@@ -55,7 +55,7 @@ global.pgopay = '088980870067'
 /*============== NOMOR ==============*/
 global.nomorbot = '6283866366437'
 global.nomorown = '6288980870067'
-global.namebot = 'Futube Md'
+global.namebot = 'Siesta Md'
 global.nameown = 'Sabil Ofc'
 
 
@@ -109,9 +109,9 @@ global.APIKeys = { // APIKey Here
 
 
 /*============== WATERMARK ==============*/
-global.wm = 'Futube Md' //Main Watermark
-global.wm2 = 'Futube Md'
-global.wm3 = 'Futube Md'
+global.wm = 'Siesta Md' //Main Watermark
+global.wm2 = 'Siesta Md'
+global.wm3 = 'Siesta Md'
 global.botdate = `☘︎ 𝗗𝗮𝘁𝗲: ${week} ${date}\n☘︎ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `☘︎ 𝗪𝗵𝗮𝘁𝘀𝗮𝗽𝗽 𝗕𝗼𝘁 𝗠𝘂𝗹𝘁𝗶-𝗗𝗲𝘃𝗶𝗰𝗲| By ${global.nameown}`
