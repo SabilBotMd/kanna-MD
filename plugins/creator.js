@@ -11,11 +11,11 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 ------- ${nameown} -------
 
 📮 *Note:*
-• Owner Futube MD tidak menerima save contact
-• Owner Futube MD berhak blockir tanpa alasan
+• Owner Siesta MD tidak menerima save contact
+• Owner Siesta MD berhak blockir tanpa alasan
 • Berbicaralah yang sopan & tidak spam
-• Owner Futube MD Hanya merespon yang berkaitan dengan BOT
-• No Telp owner Futube MD`
+• Owner Siesta MD Hanya merespon yang berkaitan dengan BOT
+• No Telp owner Siesta MD`
 
 //------------ BIO
 let ppown = 'https://telegra.ph/file/.jpg'
