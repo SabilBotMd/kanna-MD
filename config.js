@@ -54,17 +54,17 @@ global.pgopay = '088980870067'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6283866366437'
-global.nomorown = '6288980870067'
+global.nomorown = '623866366437'
 global.namebot = 'Siesta Md'
-global.nameown = 'Sabil Ofc'
+global.nameown = 'Ayumi Kawai'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6288980870067'],
-  ['6288980870067'],
-  ['6288980870067'],
-  ['6288980870067', 'Sabil Ofc', true]
+  ['623866366437'],
+  ['623866366437'],
+  ['623866366437'],
+  ['623866366437', 'Ayumi Kawai', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -115,7 +115,7 @@ global.wm3 = 'Siesta Md'
 global.botdate = `☘︎ 𝗗𝗮𝘁𝗲: ${week} ${date}\n☘︎ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `☘︎ 𝗪𝗵𝗮𝘁𝘀𝗮𝗽𝗽 𝗕𝗼𝘁 𝗠𝘂𝗹𝘁𝗶-𝗗𝗲𝘃𝗶𝗰𝗲| By ${global.nameown}`
-global.author = '┄┄┄┅┅❑ Sabil Ofc ❑┅┅┄┄┄'
+global.author = '┄┄┄┅┅❑ Ayumi Kawai ❑┅┅┄┄┄'
 
 
 /*============== LOGO ==============*/
