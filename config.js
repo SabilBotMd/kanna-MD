@@ -41,22 +41,22 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
     
 
 /*============== SOCIAL ==============*/
-global.sig = 'https://www.instagram.com/SabilOfc/'
-global.sgh = 'https://github.com/SabilBotMd'
-global.sgc = 'https://youtube.com/channel/SabilOfc'
-global.sdc = 'https://wa.me/6288980870067'
-global.snh = 'https://youtube.com/channel/SabilOfc'
+global.sig = 'https://www.instagram.com/Kannabotz/'
+global.sgh = 'https://github.com/XyzenzKannaV1'
+global.sgc = 'https://chat.whatsapp.com/KNuPWvGn3AG0srT3vdr0Ea'
+global.sdc = 'https://wa.me/6283866366437'
+global.snh = 'https://youtube.com/channel/Siesta Botz'
 
 /*============== PAYMENT ==============*/
-global.pdana = '088980870067'
-global.povo = '088980870067'
-global.pgopay = '088980870067'
+global.pdana = '083866366437'
+global.ppulsa = '088980870067'
+global.pgopay = '083112831554'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6283866366437'
+global.nomorbot = '6283112831554'
 global.nomorown = '623866366437'
 global.namebot = 'Siesta Md'
-global.nameown = 'Ayumi Kawai'
+global.nameown = 'Kanna Chan'
 
 
 /*============== STAFF ==============*/
@@ -64,7 +64,7 @@ global.owner = [
   ['623866366437'],
   ['623866366437'],
   ['623866366437'],
-  ['623866366437', 'Ayumi Kawai', true]
+  ['623866366437', 'Kanna Chan', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -115,7 +115,7 @@ global.wm3 = 'Siesta Md'
 global.botdate = `☘︎ 𝗗𝗮𝘁𝗲: ${week} ${date}\n☘︎ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `☘︎ 𝗪𝗵𝗮𝘁𝘀𝗮𝗽𝗽 𝗕𝗼𝘁 𝗠𝘂𝗹𝘁𝗶-𝗗𝗲𝘃𝗶𝗰𝗲| By ${global.nameown}`
-global.author = '┄┄┄┅┅❑ Ayumi Kawai ❑┅┅┄┄┄'
+global.author = '┄┄┄┅┅❑ Kanna Chan ❑┅┅┄┄┄'
 
 
 /*============== LOGO ==============*/
